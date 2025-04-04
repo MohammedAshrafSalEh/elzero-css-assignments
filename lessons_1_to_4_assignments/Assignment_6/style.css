@@ -1,0 +1,19 @@
+/* Bad */
+.USERNAME {
+}
+
+/* Good (CamelCase) */
+.UserName {
+}
+
+/* Good (kebab-case) */
+.user-name {
+}
+
+/* Bad */
+.userName {
+}
+
+/* Bad */
+.usernameprofile {
+}

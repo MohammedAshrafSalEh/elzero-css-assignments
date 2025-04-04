@@ -1,0 +1,27 @@
+/* Valid */
+._user-name {
+}
+
+/* Not Valid (لا يمكن البدء بشرطة ولكن يمكن ان توضع فى المنتصف كما فى معظمهم) */
+.-user-name {
+}
+
+/* Not Valid (لا يمكن البء برقم) */
+.1user-name {
+}
+
+/* Not Valid  (لا يمكن البدء ب @ ولا حتى فى المنتصف كما فى المثال التالى)*/
+.@user-name {
+}
+
+/* Not Valid */
+.user@name {
+}
+
+/* Valid */
+._user10name {
+}
+
+/* Valid */
+.u {
+}
