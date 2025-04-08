@@ -1,0 +1,15 @@
+.four,
+.five,
+.six{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EEE;
+    width: 400px;
+    padding: 10px;
+    margin: 20px auto;
+}
+
+.six{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
